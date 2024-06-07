@@ -1,0 +1,91 @@
+nav{
+    background-color:slategray ;
+}
+nav img{
+    height: 150px;
+    width: 200px;
+}
+a{
+    font-size: 36px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+select{
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 1rem;
+
+}
+.selectElement2{
+    margin-top: 3rem;
+}
+
+.selects{
+    border: 1px solid black;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    padding: 5rem;
+    background-color: slategray;
+    border-radius: 1rem;
+    box-shadow: .25rem .25rem .25rem;
+
+}
+
+button{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-color: blue;
+    color: antiquewhite;
+    font-size: 18px;
+ }
+
+.detailPage{
+    background-color: slategrey;
+    border: 1px solid black;
+    max-width: 60%;
+    width: 100%;
+    margin:10rem auto 10rem auto;
+    color:antiquewhite;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+.bodyElement{
+    font-size: 24pt;
+    max-width: 60%;
+    margin: 5rem auto;
+    background-color: rgba(0, 0, 0, .35);
+    padding: 2rem;
+    border-radius: 1rem;
+    color: antiquewhite;
+}
+
+footer{
+    background-color: slategray;
+    color: antiquewhite;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+body{
+    background-image: url(/image/market.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.detailsElement a{
+    font-size: 1rem;
+}
